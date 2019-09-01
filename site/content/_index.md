@@ -1,14 +1,11 @@
 ---
-title: Deciphering your digital needs
+title: Data - Decisions - Deliver
 subtitle: work with us to unlock your potential
-image: /img/home-jumbotron.jpg
+image: /img/lightBG.png
 blurb:
-  heading: Why Kaldi?
+  heading: What we offer
   text: >-
-    Monkey Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+   Using descriptive analytics, we take data & explore it asking questions gaining insights. Using statistical modelling and the latest predictive methods we help you make better decisions 
 intro:
   heading: What we offer
   text: >-

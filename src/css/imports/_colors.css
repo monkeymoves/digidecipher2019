@@ -73,8 +73,10 @@
 }
 
 .bg-fix-primary {
+  opacity: 0.5;
+
   padding: 0 var(--spacing-small);
   & :first-child {
-    box-shadow: var(--spacing-small) 0 0 var(--primary), -var(--spacing-small) 0 0 var(--primary);
+    box-shadow: var(--spacing-small) 10 10 var(--primary), -var(--spacing-small) 0 0 var(--primary);
   }
 }
