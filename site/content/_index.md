@@ -1,7 +1,7 @@
 ---
 title: Data - Decisions - Deliver
 subtitle: work with us to unlock your potential
-image: /img/lightBG.png
+image: /img/ColourMathCircles.png
 blurb:
   heading: What we offer
   text: >-
